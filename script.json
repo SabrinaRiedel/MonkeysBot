@@ -1,5 +1,5 @@
 {
-    "HELLO": "Hey, nice of you to drop by! Do you want to know more about The Monkeys? %[Who are the Monkeys](postback:twitter)",
+    "HELLO": "Hey, nice of you to drop by! Do you want to know more about The Monkeys? %[Who are the Monkeys]",
     "WHO ARE THE MONKEYS": "The Monkeys (formerly Three Drunk Monkeys) is an independent creative agency based in Sydney, Australia. Founded in 2006 by Justin Drape, Scott Nowell and Mark Green, they now employ over 100 full-time staff. If you want to know more about any of the founders, type in their full name. If you want to see some of the work The Monkeys have done, type Work %[Justin Drape] %[Scott Nowell] %[Mark Green] %[Work]",
     "JUSTIN DRAPE": "Justin Drape is Co-Founder and Chief Creative Officer of The Monkeys and a Director and Partner at Maud Design. Justin co-wrote and directed Losing Face, an award winning short film that premiered at The Melbourne International Comedy Festival and later aired on The Comedy Channel. He was also a writer and Executive Producer on the acclaimed SBS TV series, My Family Feast, and co-creator and writer of the comedy-drama series :30 seconds, both of which were nominated for Logies and Australian Film Institute Awards. Want to see some of our work? Type Work %[Work]",
     "SCOTT NOWELL": "Text about Scott. Want to see some of our work? Type Work %[Work]",
